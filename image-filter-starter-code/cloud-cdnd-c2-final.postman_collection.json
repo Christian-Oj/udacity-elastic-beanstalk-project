@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "EB_URL_HOME",
+			"name": "Home",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -22,7 +22,7 @@
 			"response": []
 		},
 		{
-			"name": "EB_URL_Filtered",
+			"name": "Filter_Url_Image",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -70,7 +70,7 @@
 	"variable": [
 		{
 			"key": "EB_URL",
-			"value": "eb-project-2-submit.us-east-1.elasticbeanstalk.com",
+			"value": "eb-project-2-updated.us-east-1.elasticbeanstalk.com",
 			"type": "string"
 		}
 	]
